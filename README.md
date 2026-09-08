@@ -5,7 +5,7 @@ for the **RTL-SDR V4** dongle family (RTL2832U + R828D or R828S, 28.8 MHz TCXO) 
 both the original **V4** (R828D) and the **V4L / "V4 Lite"** (R828S).
 
 **Package:** `com.radiosport.ninegradio`  
-**Version:** 1.66
+**Version:** 1.68
 
 ---
 
@@ -575,7 +575,7 @@ cd 9GRadio
 ./gradlew installDebug
 
 # Build release APK (requires signing config)
-# Output: app/build/outputs/apk/release/9GRadio_v1.66_release.apk
+# Output: app/build/outputs/apk/release/9GRadio_v1.68_release.apk
 ./gradlew assembleRelease
 ```
 
